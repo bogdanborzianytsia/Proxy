@@ -1,0 +1,11 @@
+D:\HomeWork\Projects\Prroxy\Prroxy\bin\Debug\Prroxy.exe.config
+D:\HomeWork\Projects\Prroxy\Prroxy\bin\Debug\Prroxy.exe
+D:\HomeWork\Projects\Prroxy\Prroxy\bin\Debug\Prroxy.pdb
+D:\HomeWork\Projects\Prroxy\Prroxy\obj\Debug\Prroxy.csproj.AssemblyReference.cache
+D:\HomeWork\Projects\Prroxy\Prroxy\obj\Debug\Prroxy.csproj.SuggestedBindingRedirects.cache
+D:\HomeWork\Projects\Prroxy\Prroxy\obj\Debug\Prroxy.Form1.resources
+D:\HomeWork\Projects\Prroxy\Prroxy\obj\Debug\Prroxy.Properties.Resources.resources
+D:\HomeWork\Projects\Prroxy\Prroxy\obj\Debug\Prroxy.csproj.GenerateResource.cache
+D:\HomeWork\Projects\Prroxy\Prroxy\obj\Debug\Prroxy.csproj.CoreCompileInputs.cache
+D:\HomeWork\Projects\Prroxy\Prroxy\obj\Debug\Prroxy.exe
+D:\HomeWork\Projects\Prroxy\Prroxy\obj\Debug\Prroxy.pdb
